@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import fs from "node:fs";
 import ini from "ini";
 import { exec } from "node:child_process";
@@ -383,7 +385,7 @@ function errorInvalidGitHubRepository() {
   console.log("");
   console.log(
     "\x1b[33m" +
-      "4. Re-run this command inside the `githack-commits` directory to continue" +
+      "4. run the command `githack` inside the `githack-commits` directory" +
       "\x1b[0m"
   );
   console.log("");
