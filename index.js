@@ -228,7 +228,7 @@ const hasCompletedOnboarding = updateFileContents.startsWith(";)");
     : 365;
   let daysSinceSelectedYearStart = isSelectedYearTheCurrentYear
     ? daysSinceYearStart()
-    : (currentYear - selectedYear - 1) * 365;
+    : (currentYear - selectedYear - 1) * 365 - daysSinceYearStart();
   let currentDaysCommitted = 0;
   let totalCommits = 0;
 
