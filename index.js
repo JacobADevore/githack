@@ -74,8 +74,8 @@ const hasCompletedOnboarding = updateFileContents.startsWith(";)");
         "https://twitter.com/intent/tweet?text=" +
         encodeURIComponent(
           `Infinite GitHub contributions by @githack_dev
-1️⃣ npm i -g githack
-2️⃣ githack`
+1️⃣ npm i -g gith4ck
+2️⃣ gith4ck`
         ) +
         "\x1b[0m"
     );

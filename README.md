@@ -6,17 +6,17 @@
     <h1 align="center">GitHack</h1>
     <p align="center">Infinite GitHub contributions</p>
     <p align="center">
-    <a href="https://packagephobia.com/result?p=githack">
-        <img src="https://packagephobia.com/badge?p=ngithack" alt="Bundle Size" />
+    <a href="https://packagephobia.com/result?p=gith4ck">
+        <img src="https://packagephobia.com/badge?p=gith4ck" alt="Bundle Size" />
     </a>
     <a href="https://www.npmtrends.com/next-validenv">
-        <img src="https://img.shields.io/npm/dm/next-githack" alt="Downloads" />
+        <img src="https://img.shields.io/npm/dm/next-gith4ck" alt="Downloads" />
     </a>
-    <a href="https://github.com/jacobadevore/githack/stargazers">
+    <a href="https://github.com/jacobadevore/gith4ck/stargazers">
         <img src="https://img.shields.io/github/stars/jacobadevore/githack" alt="Github Stars" />
     </a>
-    <a href="https://www.npmjs.com/package/githack">
-        <img src="https://img.shields.io/github/v/release/jacobadevore/githack?label=latest"
+    <a href="https://www.npmjs.com/package/gith4ck">
+        <img src="https://img.shields.io/github/v/release/jacobadevore/gith4ck?label=latest"
             alt="Github Stable Release" />
     </a>
 </p>
@@ -24,7 +24,7 @@
 ## Installation
 
 ```
-npm install -g githack
+npm install -g gith4ck
 ```
 
 If you are getting a `EACCES` error, try running the command with `sudo`.
@@ -32,7 +32,7 @@ If you are getting a `EACCES` error, try running the command with `sudo`.
 ## Usage
 
 ```
-githack
+gith4ck
 ```
 
 ## 🚨 Important Note 🚨
