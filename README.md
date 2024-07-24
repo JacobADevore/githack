@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/profile.png">
-      <img src="https:///githack.dev/profile.png" height="128">
+      <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/transformation.png">
+      <img src="https:///githack.dev/transformation.png" width="450">
     </picture>
     <h1 align="center">GitHack</h1>
     <p align="center">Infinite GitHub contributions</p>
@@ -19,13 +19,6 @@
         <img src="https://img.shields.io/github/v/release/jacobadevore/githack?label=latest"
             alt="Github Stable Release" />
     </a>
-</p>
-
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/transformation.png">
-      <img src="https:///githack.dev/transformation.png" width="450">
-    </picture>
 </p>
 
 ## Installation
