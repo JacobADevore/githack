@@ -27,10 +27,12 @@
 npm install -g githack
 ```
 
+If you are getting a `EACCES` error, try running the command with `sudo`.
+
 ## Usage
 
 ```js
-githack
+githack;
 ```
 
 ## 🚨 Important Note 🚨
