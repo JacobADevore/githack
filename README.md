@@ -20,12 +20,12 @@
             alt="Github Stable Release" />
     </a>
 </p>
-<p align="center">Created by</p>
-<div align="center">
-    <td align="center"><a href="https://twitter.com/JacobADevore"><img
-                src="https://avatars.githubusercontent.com/u/20541754?v=4?s=100" width="100px;"
-                alt="" /><br /><sub><b>Jacob Devore</b></sub></a></td>
-</div>
+
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/transformation.png">
+      <img src="https:///githack.dev/transformation.png" width="450">
+    </picture>
 </p>
 
 ## Installation
@@ -54,7 +54,7 @@ Make sure your GitHub profile `Contribution settings` set to `Private contributi
 <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/github-profile-setting.png">
-      <img src="https:///githack.dev/github-profile-setting.png" height="128">
+      <img src="https:///githack.dev/github-profile-setting.png" width="360">
     </picture>
 </p>
 
