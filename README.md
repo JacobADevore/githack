@@ -31,7 +31,7 @@ If you are getting a `EACCES` error, try running the command with `sudo`.
 
 ## Usage
 
-```js
+```
 githack
 ```
 
