@@ -27,6 +27,8 @@
 npm install -g gith4ck
 ```
 
+The "a" in hack is a "4" due to NPM not allowing the word "hack" in a package name.
+
 If you are getting a `EACCES` error, try running the command with `sudo`.
 
 ## Usage
