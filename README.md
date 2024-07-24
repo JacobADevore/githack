@@ -60,6 +60,9 @@ Make sure your GitHub profile `Contribution settings` set to `Private contributi
 ### Frequently Asked Questions
 
 <b>How can I get rid of the GitHack commits?</b>
+<br/>
 Delete the `githack-commits` repository from your GitHub account and all the GitHack commits will be removed from your profile. After deleting, to get commits back you'll need to repeat the GitHack process.
 
-<b>Why do I have to share + follow on X/Twitter to get access?</b> Sharing on X/Twitter helps get the word out about GitHack. Following me allows me to keep releasing more tools in the future. You can always fork the code and remove those parts if you don't want to support via X/Twitter.
+<b>Why do I have to share + follow on X/Twitter to get access?</b>
+<br/>
+Sharing on X/Twitter helps get the word out about GitHack. Following me allows me to keep releasing more tools in the future. You can always fork the code and remove those parts if you don't want to support via X/Twitter.
