@@ -385,7 +385,7 @@ function errorInvalidGitHubRepository() {
   console.log("");
   console.log(
     "\x1b[33m" +
-      "4. run the command `githack` inside the `githack-commits` directory" +
+      "4. run the command `gith4ck` inside the `githack-commits` directory" +
       "\x1b[0m"
   );
   console.log("");
