@@ -250,7 +250,7 @@ const hasCompletedOnboarding = updateFileContents.startsWith(";)");
       continue;
     }
 
-    const randomCommitsPerDay = getRandomNumber(1, 7);
+    const randomCommitsPerDay = getRandomNumber(1, 4);
 
     for (let j = 0; j < randomCommitsPerDay; j++) {
       fs.appendFile(
