@@ -337,8 +337,7 @@ async function isPostValid(post_url) {
     !data ||
     !data.text ||
     !data.text.includes("Infinite GitHub contributions by @githack_dev") ||
-    !data.text.includes("npm i -g githack") ||
-    !data.text.includes("npm githack")
+    !data.text.includes("npm i -g gith4ck")
   ) {
     return false;
   }
