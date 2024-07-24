@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/transformation.png">
-      <img src="https:///githack.dev/transformation.png" height="350" width="450">
+      <source media="(prefers-color-scheme: dark)" srcset="/assets/transformation.png">
+      <img src="/assets/transformation.png" height="350" width="450">
     </picture>
     <h1 align="center">GitHack</h1>
     <p align="center">Infinite GitHub contributions</p>
@@ -46,8 +46,8 @@ Make sure your GitHub profile `Contribution settings` set to `Private contributi
 
 <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https:///githack.dev/github-profile-setting.png">
-      <img src="https:///githack.dev/github-profile-setting.png" height="200" width="360">
+      <source media="(prefers-color-scheme: dark)" srcset="/assets/github-profile-setting.png">
+      <img src="/assets/github-profile-setting.png" height="200" width="360">
     </picture>
 </p>
 
