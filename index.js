@@ -133,7 +133,7 @@ const hasCompletedOnboarding = updateFileContents.startsWith(";)");
       },
     });
 
-    if (attempts <= 3) {
+    if (attempts < 3) {
       console.log(
         "\x1b[1m" +
           "\x1b[31m" +
