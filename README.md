@@ -30,7 +30,7 @@ npm install -g githack
 ## Usage
 
 ```js
-npm githack
+githack
 ```
 
 ## 🚨 Important Note 🚨
