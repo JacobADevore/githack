@@ -75,7 +75,7 @@ const hasCompletedOnboarding = updateFileContents.startsWith(";)");
         encodeURIComponent(
           `Infinite GitHub contributions by @githack_dev
 1️⃣ npm i -g githack
-2️⃣ npm githack`
+2️⃣ githack`
         ) +
         "\x1b[0m"
     );
