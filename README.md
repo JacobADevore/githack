@@ -6,9 +6,6 @@
     <h1 align="center">GitHack</h1>
     <p align="center">Infinite GitHub contributions</p>
     <p align="center">
-    <a href="https://packagephobia.com/result?p=gith4ck">
-        <img src="https://packagephobia.com/badge?p=gith4ck" alt="Bundle Size" />
-    </a>
     <a href="https://www.npmtrends.com/next-validenv">
         <img src="https://img.shields.io/npm/dm/gith4ck" alt="Downloads" />
     </a>
