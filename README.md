@@ -10,13 +10,13 @@
         <img src="https://packagephobia.com/badge?p=gith4ck" alt="Bundle Size" />
     </a>
     <a href="https://www.npmtrends.com/next-validenv">
-        <img src="https://img.shields.io/npm/dm/next-gith4ck" alt="Downloads" />
+        <img src="https://img.shields.io/npm/dm/gith4ck" alt="Downloads" />
     </a>
     <a href="https://github.com/jacobadevore/gith4ck/stargazers">
         <img src="https://img.shields.io/github/stars/jacobadevore/githack" alt="Github Stars" />
     </a>
     <a href="https://www.npmjs.com/package/gith4ck">
-        <img src="https://img.shields.io/github/v/release/jacobadevore/gith4ck?label=latest"
+        <img src="https://img.shields.io/github/v/release/jacobadevore/githack?label=latest"
             alt="Github Stable Release" />
     </a>
 </p>
