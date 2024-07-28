@@ -15,10 +15,6 @@
     <a href="https://github.com/jacobadevore/gith4ck/stargazers">
         <img src="https://img.shields.io/github/stars/jacobadevore/githack" alt="Github Stars" />
     </a>
-    <a href="https://www.npmjs.com/package/gith4ck">
-        <img src="https://img.shields.io/github/v/release/jacobadevore/githack?label=latest"
-            alt="Github Stable Release" />
-    </a>
 </p>
 
 ## Installation
